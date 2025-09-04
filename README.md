@@ -25,8 +25,7 @@ A Revit add-in (.NET Framework 4.8 or .NET 8) that demonstrates AI-powered image
 - Open the RevitNanoBanana panel from the Revit ribbon.
 - Enter a prompt and process the current view.
 - View and save the AI-generated image.
-
-- Note: Ensure you have a valid API key for to this working.
+- Ensure you have a valid API key for to this working.
 - The add-in currently supports Revit 2025/2026 and later versions.
 
 ## License

@@ -5,8 +5,7 @@ using Autodesk.Revit.UI;
 namespace RevitNanoBanana
 {
     [Transaction(TransactionMode.Manual)]
-    [Regeneration(RegenerationOption.Manual)]
-    public class AIImageProcessorCommand : IExternalCommand
+    public class ImageGeneratorCommand : IExternalCommand
     {
         public Result Execute(
             ExternalCommandData commandData,
@@ -17,7 +16,6 @@ namespace RevitNanoBanana
 
             try
             {
-                // Show WinForm
                 using (MainForm form = new MainForm(uiApp))
                 {
                     form.ShowDialog();

@@ -2,8 +2,17 @@
   <AddIn Type="Application">
     <Name>Nano Banana</Name>
     <Assembly>RevitNanoBanana/RevitNanoBanana.dll</Assembly>
-    <AddInId>0a1ec341-1d0e-4737-98b6-345507401c61</AddInId>
-    <FullClassName>RevitNLTasks.App</FullClassName>
+    <AddInId>{0a1ec341-1d0e-4737-98b6-345507401c61}</AddInId>
+    <FullClassName>RevitNanoBanana.App</FullClassName>
+    <VendorId>IFahdah</VendorId>
+    <VendorDescription>Nano Banana for Revit</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Name>Nano Banana Generate Image</Name>
+    <Assembly>RevitNanoBanana/RevitNanoBanana.dll</Assembly>
+    <AddInId>{b2a81234-5678-4abc-9d01-223344556677}</AddInId>
+    <FullClassName>RevitNanoBanana.ImageGeneratorCommand</FullClassName>
     <VendorId>IFahdah</VendorId>
     <VendorDescription>Nano Banana for Revit</VendorDescription>
   </AddIn>
