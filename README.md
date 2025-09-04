@@ -2,6 +2,8 @@
 
 A Revit add-in (.NET Framework 4.8 or .NET 8) that demonstrates AI-powered image processing and prompt-based automation in Autodesk Revit.
 
+![Nano Banana Logo](/img.png)
+
 ## Features
 
 - Export active Revit view as an image.
