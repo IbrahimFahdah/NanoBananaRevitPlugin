@@ -1,0 +1,10 @@
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Nano Banana</Name>
+    <Assembly>RevitNanoBanana/RevitNanoBanana.dll</Assembly>
+    <AddInId>0a1ec341-1d0e-4737-98b6-345507401c61</AddInId>
+    <FullClassName>RevitNLTasks.App</FullClassName>
+    <VendorId>IFahdah</VendorId>
+    <VendorDescription>Nano Banana for Revit</VendorDescription>
+  </AddIn>
+</RevitAddIns>
