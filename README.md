@@ -36,7 +36,7 @@ A Revit add-in (.NET Framework 4.8 or .NET 8) that demonstrates AI-powered image
 - Make sure to enter a valid API key.
 
 ## License
-MIT License. See `LICENSE` file for details.
+MIT License.
 
 ## Acknowledgements
 If you find this project useful, please consider starring the repository and sharing it with others!
