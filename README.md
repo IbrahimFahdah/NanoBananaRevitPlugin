@@ -30,6 +30,11 @@ A Revit add-in (.NET Framework 4.8 or .NET 8) that demonstrates AI-powered image
 - Ensure you have a valid API key for to this working.
 - The add-in currently supports Revit 2025/2026 and later versions.
 
+## Testing
+- Copy the files in the Test folder to your Revit Addins folder and re-run revit.
+- Use the "Test Nano Banana" button on Add-Ins to open the test form.
+- Make sure to enter a valid API key.
+
 ## License
 MIT License. See `LICENSE` file for details.
 
