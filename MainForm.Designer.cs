@@ -1,4 +1,7 @@
-﻿namespace RevitNanoBanana
+﻿using System.Drawing;
+using System.Windows.Forms;
+
+namespace RevitNanoBanana
 {
     partial class MainForm
     {
